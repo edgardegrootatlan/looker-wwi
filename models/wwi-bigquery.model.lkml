@@ -33,4 +33,6 @@ explore: dim_purchase_orders {}
 
 explore: fct_orders {}
 
+explore: fct_sales {}
+
 explore: dim_stock_items {}
